@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BhanuprakashPullagura
+- 👋 Hi, I’m @Bhanuprakash P
   
 - 🌱 I’m currently learning DSA through Java
 
